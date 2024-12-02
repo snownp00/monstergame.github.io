@@ -1,9 +1,8 @@
 body {
-    background-image: url(https://cdn.vectorstock.com/i/500p/20/86/seamless-background-with-cute-poo-cartoon-vector-11822086.jpg);
-/* background-color: #0a0a23;
-   */
+    
+  background-image: url(https://cdn.vectorstock.com/i/500p/20/86/seamless-background-with-cute-poo-cartoon-vector-11822086.jpg); 
+    font-family: sans-serif;
 }
-  
   #text {
     background-color: #0a0a23;
     color: #ffffff;
